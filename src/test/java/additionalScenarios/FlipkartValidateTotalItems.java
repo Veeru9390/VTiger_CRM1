@@ -10,6 +10,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
+//This changes can makes User2
+
 public class FlipkartValidateTotalItems {
 
 	@Test
